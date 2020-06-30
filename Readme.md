@@ -2,7 +2,7 @@
 
 ```console
 $> git clone git@github.com:o2t/tutorial-node-stock-server.git
-$> yarn
+$> yarn or npm i
 ```
 
 # Run
